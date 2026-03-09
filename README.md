@@ -71,6 +71,5 @@ Dashboard structuring for executive reporting
 Analytical thinking beyond basic charts
 
 🔗 Author
-
-[Aditya Takale]
+Aditya Takale
 Aspiring Data Analyst | Supply Chain Analytics | Business Intelligence
